@@ -83,7 +83,7 @@ function Feature() {
                         src='videos/feature-1.mp4'
                         title={
                             <>
-                                radi<b>n</b>t
+                                radiA<b>n</b>t
                             </>
                         }
                         description='A cross-platform metagame app, turning your activities across Web2 and Web3 games into a rewarding adventure.'

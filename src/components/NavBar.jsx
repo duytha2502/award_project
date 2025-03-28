@@ -3,7 +3,6 @@ import Button from './Button';
 import { TiLocationArrow } from 'react-icons/ti';
 import { useWindowScroll } from 'react-use';
 import gsap from 'gsap';
-import { ScrollTrigger } from 'gsap/ScrollTrigger';
 
 function NavBar() {
     const navItems = ['Nexus', 'Vault', 'Prologue', 'About', 'Contact'];
